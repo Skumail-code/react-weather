@@ -12,10 +12,10 @@ function App() {
         <a href="https://github.com/Skumail-code/react-weather-app">
           Download Source Code
         </a>{" "}
-        | Developed by{"https://github.com/Skumail-code"}
-        <a target="_blank" href="">
+        | Developed by{" "}
+        <a target="_blank" href="https://github.com/Skumail-code">
           Kumail Rizvi
-        </a>{"https://github.com/Skumail-code"}
+        </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="">
           HTML, CSS, JavaScript, and React.JS
