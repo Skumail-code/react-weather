@@ -609,6 +609,13 @@ div#txt {
   }
 }
 
+@media screen and (max-width: 480px){
+.date-time, .dmy {
+    padding: 72px 0px;
+    width: 100%;
+}
+}
+
 /*-- //Responsive Code --*/
 .cityHead {
   display: flex;
